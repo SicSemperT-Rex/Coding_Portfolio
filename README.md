@@ -1,6 +1,6 @@
 # Coding Portfolio
 
-Welcome to my codiing portfolio, where I keep a selection of my projects in different coding languages! See below for descriptions of each project.
+Welcome to my coding portfolio, where I keep a selection of my projects in different coding languages! See below for descriptions of each project.
 
 BATTLESHIP FARRAGUT
   This is a choose-your-own-adventure style game built using Python as a way to practice loops, if/else statements, etc. This game is currently in-progress
